@@ -1,10 +1,8 @@
 ## iBanque
 
-### - This Script Needs ESX
-
-## Preview: None
-
-## Simple Configuration
+### This Script Needs ESX
+### Simple Configuration
+### Preview: None
 
 ## EN:
 
