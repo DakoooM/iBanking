@@ -2,7 +2,7 @@
 
 ### This Script Needs ESX
 ### Simple Configuration
-### Preview: None
+### Preview: https://streamable.com/r6lfod
 
 ## EN:
 
